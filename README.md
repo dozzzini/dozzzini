@@ -11,4 +11,3 @@ dozzzini/dozzzini is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/#3776AB?style=for-the-badge&logo=로고&logoColor=#BCFF66"/></a>
