@@ -1,7 +1,5 @@
 <h2>Intro</h2>
-<div style="width: 300px; height: 200px; background-color: transparent; display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/user-attachments/assets/bae474e9-c9f8-42dc-88a4-d56c1f8f1c6b" style="width: 100%; height: 100%;">
-</div>
+<img src="https://github.com/user-attachments/assets/bae474e9-c9f8-42dc-88a4-d56c1f8f1c6b" width = "600px">
 
 <h2>Stack</h2>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/></a>
