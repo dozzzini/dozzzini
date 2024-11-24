@@ -1,5 +1,5 @@
 <h2>Intro</h2>
-<img src="https://github.com/user-attachments/assets/15bb667f-c196-4483-acd0-bcac7b209b25" width = "800px" height = "400px">
+<img src="https://github.com/user-attachments/assets/15bb667f-c196-4483-acd0-bcac7b209b25" width = "850px" height = "400px">
 
 <h2>Stack</h2>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/></a>
