@@ -1,4 +1,3 @@
-<h2>도딘이네</h2>
 <img src="https://github.com/user-attachments/assets/30512234-b157-496e-b475-2281b527d9da">
 
 <h2>Stack</h2>
