@@ -1,5 +1,12 @@
 <img src="https://github.com/user-attachments/assets/30512234-b157-496e-b475-2281b527d9da">
 
+<style>
+  img {
+    margin-right: 6px; /* 오른쪽 간격 */
+    vertical-align: middle; /* 이미지 수직정렬 */
+  }
+</style>
+
 <h2>Language</h2>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=FFFFFF"/>
