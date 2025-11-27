@@ -20,3 +20,4 @@
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=FFFFFF)
 
 [![dozzzini's GitHub stats](https://github-readme-stats.vercel.app/api?username=dozzzini)](https://github.com/dozzzini/github-readme-stats)
+![dozzzini's GitHub stats](https://github-readme-stats.vercel.app/api?username=dozzzini&show_icons=true&theme=synthwave)
