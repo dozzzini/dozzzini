@@ -19,5 +19,4 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=FFFFFF) 
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=FFFFFF)
 
-[![dozzzini's GitHub stats](https://github-readme-stats.vercel.app/api?username=dozzzini)](https://github.com/dozzzini/github-readme-stats)
-![dozzzini's GitHub stats](https://github-readme-stats.vercel.app/api?username=dozzzini&show_icons=true&theme=synthwave)
+[![dozzzini's GitHub stats](https://github-readme-stats.vercel.app/api?username=dozzzini&show_icons=true&theme=synthwave)](https://github.com/dozzzini/github-readme-stats)
