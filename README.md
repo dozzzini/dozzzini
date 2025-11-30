@@ -19,7 +19,6 @@
   ### Library
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-#ffffff?style=flat-square&logo=Matplotlib&logoColor=black"/>
   <img src="https://img.shields.io/badge/Seaborn-444444?style=flat-square&logo=Seaborn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
   <br/>
