@@ -1,7 +1,9 @@
+https://capsule-render.vercel.app/api?
+
 <div>
   
   <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&heading=header&text=Welcome%20to%20dozzini's%20Github&fontSize=50&height=100&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&heading=header&text=Welcome%20to%20dozzini's%20Github&fontSize=50&height=150&animation=fadeIn)
 
 </div>
 
