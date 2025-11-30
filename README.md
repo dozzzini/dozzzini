@@ -1,7 +1,7 @@
 <div>
   
   <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&heading=header&text=Hello!&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&heading=header&text=Welcome%20to%20dozzini's%20Github&fontSize=50&height=100&animation=fadeIn)
 
 </div>
 
@@ -9,7 +9,7 @@
   <!--Body-->
 
   
-  ## 🧱 Tech Stack
+  ## Tech Stack
   ### Language
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -36,8 +36,8 @@
   <br/>
   <br/>
   
-  ## 🤔 Github Stats
-  [![dozzzini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim)](https://github.com/dozzzini/github-readme-stats)
+  ## Github Stats
+  [![dozzzini's GitHub stats](https://github-readme-stats.vercel.app/api?username=dozzzini)](https://github.com/dozzzini/github-readme-stats)
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dozzzini)](https://github.com/dozzzini/github-readme-stats)
   
